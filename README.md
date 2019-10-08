@@ -17,14 +17,25 @@ Popnable implements very basic shield against unnumerous requests. You have to o
 
 ### Methods ###
 searchByKeyword()
+
 getTrends()
+
 getSongs()
+
 getSongsByTrend()
+
 getArtists()
+
 getArtistByTrend()
+
 getDailyChart()
+
 getWeeklyChart()
+
 getMonthlyChart()
+
 getYearEndChart()
+
 getArtistChart()
+
 getVideos()
