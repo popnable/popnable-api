@@ -1,7 +1,3 @@
-# popnable-api
-Popnable API Integration
-
-
 # Popnable API #
 
 Popnable is leading website providing [music charts](https://popnable.com/charts) from all over the world. Webiste contains data about 250K videos, 50K artists, 110 countries, 100K music charts. 
