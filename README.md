@@ -2,10 +2,10 @@
 
 [Popnable](https://popnable.com) is leading website providing [music charts](https://popnable.com/charts) from all over the world. Webiste contains data about 250K videos, 50K artists, 110 countries, 100K music charts. 
 
-This API is a wrapper for the [Popnable API](https://popnable.com/help/api) and allows you to fetch music charts, songs, artists and many others from Popnable Repository.
+This API is a wrapper for the [Popnable API](https://github.com/popnable/popnable-api/wiki) and allows you to fetch music charts, songs, artists and many others from Popnable Repository.
 
 ## Requirements ##
-* PHP 5.1.3 or greater
+* PHP 5.3.0 or greater
 
 ### Installation ###
       "require": {
@@ -46,3 +46,8 @@ Popnable implements very basic shield against unnumerous requests. You have to o
     getYearEndChart()
     getArtistChart()
     getVideos()
+
+### Community ###
+**Visit:** https://popnable.com/forums
+
+**Email:** support@popnable.com
