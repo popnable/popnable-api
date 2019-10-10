@@ -4,13 +4,25 @@
 
 This API is a wrapper for the [Popnable API](https://github.com/popnable/popnable-api/wiki) and allows you to fetch music charts, songs, artists and many others from Popnable Repository.
 
+This library is compatible with Laravel Framework.
+
 ## Requirements ##
 * PHP 5.3.0 or greater
+* CURL
+* JSON
 
 ### Installation ###
+
+**Composer.json:**
+
       "require": {
             "popnable/popnable-api": "dev-master"
       }
+      
+      
+**Console command:**  
+
+      composer require "popnable/popnable-api"
   
 ### Basic Example ###
     <?php
